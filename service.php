@@ -5,7 +5,7 @@
 
         public function __construct(){
             $this->service = "https://www.googleapis.com/youtube/v3/search?part=+snippet&videoDefinition=any&type=video";
-            $this->api_key="AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8";
+            $this->api_key="API_KEY";
         }
 
         public function request($search){
