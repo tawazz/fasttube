@@ -1,0 +1,601 @@
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=m&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ma&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mav&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavi&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavin&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavind&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavin&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavins&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:25 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:48:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mavins&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:48:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:48:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:48:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=t&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=th&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:35 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=th&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:36 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:37 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:37 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:37 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:37 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+v&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+vw&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+v&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+ve&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+ve&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:39 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+ver&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+verh&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+ver&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+verg&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+verge&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+verge&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:40 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:50:41 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=the+verge&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:50:41 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:50:41 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:50:41 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=m&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mov&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=movi&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:01 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:02 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=movie&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:02 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:02 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:22 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:22 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:22 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:22 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:25 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=b&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:25 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:25 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:25 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=be&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=bel&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=belo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=below&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=below&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:27 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:31 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=w&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:31 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:31 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:31 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=wo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=woz&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=woza&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:32 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:36 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:36 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:36 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:36 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:55 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:55 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:55 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:55 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:57 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ht&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:57 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:57 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:57 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=htt&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=http&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 15:59:58 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=htt&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ht&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:03 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:06 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:06 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:06 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:06 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:07 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:07 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:07 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:07 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:08 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:08 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:08 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:08 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:42 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=g&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:42 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:42 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:42 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=go&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=goo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=goog&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=googl&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:47 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:00:48 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=google&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:00:48 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:00:48 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:00:48 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:01:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=m&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:01:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:01:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:01:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:01:27 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=mo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:01:27 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:01:27 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:01:27 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:06 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=y&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:06 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:06 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:06 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yol&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:11 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:12 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yolo&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:12 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:12 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:12 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=t&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=tt&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:17 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:06:18 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ttt&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:06:18 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:06:18 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:06:18 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:07:20 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:07:20 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:07:20 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:07:20 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:07:22 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=j&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:07:22 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:07:22 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:07:22 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:07:23 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=jj&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:07:23 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:07:23 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:07:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=hh&amp;maxResults=10&amp;key=AIzaSyDVxq4VAUSjCEiL5uHHdUmPqEX18tCLb6o): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:07:26 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=g&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=go&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:15 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=goo&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=goog&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:16 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=goo&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=go&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=g&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:09:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=y&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yo&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yol&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:13:42 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:13:43 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=yolo&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:13:43 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:13:43 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:13:43 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:16:38 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:16:42 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:16:42 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:16:42 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:16:42 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:54 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=r&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:54 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:54 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:54 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=r&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ro&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ro&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:56 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=rol&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=rol&amp;maxResults=10&amp;key=AIzaSyBm0ReyIdZdZnPHEgKGZd4rid3Ax7hEHso): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[21-Mar-2015 16:19:58 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:43:36 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=h&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 02:43:36 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:43:36 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:43:36 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:43:37 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=he&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 02:43:37 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:43:37 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:43:37 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ope&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 16
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=o&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 16
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=op&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 16
+[22-Mar-2015 02:44:33 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 02:44:34 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=open&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 02:44:34 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 02:44:34 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 16
+[22-Mar-2015 02:44:34 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=b&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=bo&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:12 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:16 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=b&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:16 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:16 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:16 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:17 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:17 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:17 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:17 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:19 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=b&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:19 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:19 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:19 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:22 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=ba&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:22 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:22 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:22 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=bae&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=baer&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 04:02:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=f&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=fa&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=fas&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:18:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:18:03 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=fast&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:18:03 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:18:03 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:18:03 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:26:14 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=y&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:26:14 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:26:14 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:26:14 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[22-Mar-2015 22:26:44 Australia/Melbourne] PHP Warning:  fopen(https://www.googleapis.com/youtube/v3/search?part=+snippet&amp;videoDefinition=any&amp;type=video&amp;q=&amp;maxResults=10&amp;key=AIzaSyAO6etk23XszDz_pnVyB0OPJXfS4O1cgF8): failed to open stream: HTTP request failed! HTTP/1.0 403 Forbidden
+ in /home/tawazzne/public_html/fasttube/service.php on line 13
+[22-Mar-2015 22:26:44 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 14
+[22-Mar-2015 22:26:44 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/service.php on line 15
+[22-Mar-2015 22:26:44 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 13
+[26-Apr-2015 02:23:47 Australia/Melbourne] PHP Warning:  fopen(https://api.soundcloud.com/tracks.json?q=dark+horse&amp;limit=15&amp;client_id=0120297111908d39612578eb181ed3c7): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Not Available
+ in /home/tawazzne/public_html/fasttube/soundcloud.php on line 13
+[26-Apr-2015 02:23:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 14
+[26-Apr-2015 02:23:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 15
+[26-Apr-2015 02:23:47 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/tracks.php on line 13
+[26-Apr-2015 11:52:24 Australia/Melbourne] PHP Warning:  fopen(https://api.soundcloud.com/tracks.json?q=for+everybody&amp;limit=15&amp;client_id=0120297111908d39612578eb181ed3c7): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Not Available
+ in /home/tawazzne/public_html/fasttube/soundcloud.php on line 13
+[26-Apr-2015 11:52:24 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 14
+[26-Apr-2015 11:52:24 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 15
+[26-Apr-2015 11:52:24 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/tracks.php on line 13
+[30-Apr-2015 01:20:27 Australia/Melbourne] PHP Warning:  fopen(https://api.soundcloud.com/tracks.json?q=dave+a&amp;limit=15&amp;client_id=0120297111908d39612578eb181ed3c7): failed to open stream: HTTP request failed! HTTP/1.0 503 Service Not Available
+ in /home/tawazzne/public_html/fasttube/soundcloud.php on line 13
+[30-Apr-2015 01:20:27 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 14
+[30-Apr-2015 01:20:27 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 15
+[30-Apr-2015 01:20:27 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/tracks.php on line 13
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  fopen(https://api.soundcloud.com/tracks/xxxxxxxxx/stream?client_id=0120297111908d39612578eb181ed3c7): failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/tawazzne/public_html/fasttube/soundcloud.php on line 22
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  stream_get_contents() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 23
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/tawazzne/public_html/fasttube/soundcloud.php on line 24
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tawazzne/public_html/fasttube/soundcloud.php:22) in /home/tawazzne/public_html/fasttube/download_mp3.php on line 8
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tawazzne/public_html/fasttube/soundcloud.php:22) in /home/tawazzne/public_html/fasttube/download_mp3.php on line 9
+[30-Apr-2015 03:37:47 Australia/Melbourne] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tawazzne/public_html/fasttube/soundcloud.php:22) in /home/tawazzne/public_html/fasttube/download_mp3.php on line 10
+[04-May-2015 08:36:06 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 12
+[04-May-2015 08:43:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 12
+[04-May-2015 08:43:21 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 12
+[04-May-2015 08:43:23 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/tawazzne/public_html/fasttube/search.php on line 12
