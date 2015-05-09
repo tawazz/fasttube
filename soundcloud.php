@@ -4,7 +4,7 @@
 
         public function __construct(){
             $this->service = "https://api.soundcloud.com/tracks.json?";
-            $this->api_key="0120297111908d39612578eb181ed3c7";
+            $this->api_key="API_KEY";
         }
 
         public function request($query){
