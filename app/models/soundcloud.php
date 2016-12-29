@@ -1,11 +1,12 @@
 <?php
     class SCservice{
-        private $api_key, $service,$master_key;
+        private $api_key, $service,$master_key,$app_version;
 
         public function __construct(){
             $this->service = "https://api.soundcloud.com/tracks.json?";
             $this->api_key="0120297111908d39612578eb181ed3c7";
-			$this->master_key = "02gUJC0hH2ct1EGOcYXQIzRFU91c72Ea";
+			$this->master_key = "fDoItMDbsbZz8dY16ZzARCZmzgHBPotA";
+	    $this->app_version = "1480516909";
         }
 
         public function request($query){
@@ -54,7 +55,7 @@
           }else{
 
             //$request = "https://api-v2.soundcloud.com/explore/Popular+Music?tag=out-of-experiment&limit=50&offset=0&linked_partitioning=1&client_id={$this->api_key}";
-            $request ="https://api-v2.soundcloud.com/charts?kind=top&genre=soundcloud%3Agenres%3Aall-music&client_id=02gUJC0hH2ct1EGOcYXQIzRFU91c72Ea&limit=50&offset=0&linked_partitioning=1&app_version=1462885870";
+            $request ="https://api-v2.soundcloud.com/charts?kind=top&genre=soundcloud%3Agenres%3Aall-music&client_id=".$this->master_key."&limit=50&offset=0&linked_partitioning=1&app_version=".$this->app_version;
           }
           $open =fopen($request, "rb");
           $result =stream_get_contents($open);
