@@ -43,7 +43,7 @@
                     </div>
                 </div>
             </div>
-            <div class="footer-below">
+            <div class="has-text-centered">
                 <span class="brand-font">{{brand}}</span> <span>{{ver}}</span>
                 <span>Copyright &copy; <a href="http://www.tawazz.net/me">Tawanda Nyakudjga</a> {{ "now"|date("Y") }}</span>
             </div>

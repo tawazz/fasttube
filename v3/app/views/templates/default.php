@@ -10,13 +10,16 @@
         {% include "parts/css.php" %}
         {% block css %}{% endblock %}
     </head>
-    <body>
+    <body >
+      <div id="app" >
         {% include "parts/nav.php" %}
-		<div class="container is-fluid">
-        {% block content %}{% endblock %}
-		</div>
+        <div class="container is-fluid">
+            {% block content %}{% endblock %}
+        </div>
         {% include "parts/footer.php" %}
+      </div>
         {% include "parts/scripts.php" %}
         {% block js %}{% endblock %}
+
     </body>
 </html>
