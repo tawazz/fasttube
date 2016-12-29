@@ -1,0 +1,23 @@
+<?php
+  $GLOBALS['config'] = [
+
+      'urls'         => [
+          'baseUrl'  => 'http://localhost',
+      ],
+      'debug'        => true,
+      'mysql'        => [
+          'driver'   => 'mysql',
+          'host'     => '127.0.0.1',
+          'username' => 'root',
+          'password' => 'password',
+          'db'       => 'database'
+      ],
+      'ver'          => 'v1.0-dev',
+      'locale'       => [
+          "brand"    => "Slim 2 Skeleton",
+          "address"  => "Some <br> Place",
+          "phone"    => "+61 401 234 567",
+          "email"    => "admin@example.com",
+      ]
+  ];
+ ?>

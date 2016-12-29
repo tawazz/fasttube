@@ -11,6 +11,10 @@ class ComposerStaticInit76557cbda05829aea0f132d785712c18
         array (
             'Slim\\Views\\' => 11,
         ),
+        'P' => 
+        array (
+            'Psr\\Log\\' => 8,
+        ),
         'M' => 
         array (
             'Monolog\\' => 8,
@@ -21,6 +25,10 @@ class ComposerStaticInit76557cbda05829aea0f132d785712c18
         'Slim\\Views\\' => 
         array (
             0 => __DIR__ . '/..' . '/slim/views',
+        ),
+        'Psr\\Log\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
         ),
         'Monolog\\' => 
         array (
@@ -41,13 +49,6 @@ class ComposerStaticInit76557cbda05829aea0f132d785712c18
             'Slim' => 
             array (
                 0 => __DIR__ . '/..' . '/slim/slim',
-            ),
-        ),
-        'P' => 
-        array (
-            'Psr\\Log\\' => 
-            array (
-                0 => __DIR__ . '/..' . '/psr/log',
             ),
         ),
     );

@@ -11,6 +11,9 @@
 
 class Twig_Tests_NativeExtensionTest extends PHPUnit_Framework_TestCase
 {
+    /**
+     * @requires PHP 5.3
+     */
     public function testGetProperties()
     {
         if (defined('HHVM_VERSION')) {
@@ -18,8 +21,8 @@ class Twig_Tests_NativeExtensionTest extends PHPUnit_Framework_TestCase
         }
 
         $twig = new Twig_Environment(new Twig_Loader_Array(array('index' => '{{ d1.date }}{{ d2.date }}')), array(
-            'debug'      => true,
-            'cache'      => false,
+            'debug' => true,
+            'cache' => false,
             'autoescape' => false,
         ));
 
