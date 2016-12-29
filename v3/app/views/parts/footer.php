@@ -1,10 +1,10 @@
 
 <!-- Footer -->
-        <footer class="text-center">
+        <footer class="footer">
             <div class="footer-above">
                 <div class="container">
-                    <div class="row">
-                        <div class="footer-col col-sm-4">
+                    <div class="columns">
+                        <div class="column">
                             <h3>Contact Us!</h3>
                             <address>
                               {{ address|raw }}
@@ -14,7 +14,7 @@
 
                               <span><i class="fa fa-fw fa-envelope"></i></span> {{ email|raw }}
                         </div>
-                        <div class="footer-col col-sm-4">
+                        <div class="column">
                             <h3>Around the Web</h3>
                             <ul class="list-inline">
                                 <li>
@@ -32,7 +32,7 @@
 
                             </ul>
                         </div>
-                        <div class="footer-col col-sm-4" >
+                        <div class="column" >
                             <h3>Site Links</h3>
                             <ul style="list-style-type: none;">
                                 <li><a href="{{ urlFor('home')}}">Home</a></li>
@@ -44,11 +44,7 @@
                 </div>
             </div>
             <div class="footer-below">
-                <div class="container">
-                    <div class="col-sm-12 text-center">
-                      <span class="brand-font">{{brand}}</span> <span>{{ver}}</span>
-                        <span>Copyright &copy; <a href="http://www.tawazz.net/me">Tawanda Nyakudjga</a> {{ "now"|date("Y") }}</span>
-                    </div>
-                </div>
+                <span class="brand-font">{{brand}}</span> <span>{{ver}}</span>
+                <span>Copyright &copy; <a href="http://www.tawazz.net/me">Tawanda Nyakudjga</a> {{ "now"|date("Y") }}</span>
             </div>
         </footer>

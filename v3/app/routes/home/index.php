@@ -4,7 +4,8 @@
         $T =[];
 
         foreach ($recs->collection as $track) {
-          $T[]=$track->track;
+            $track->track->artwork_url = str_replace("large","crop",$track->track->artwork_url);
+            $T[]=$track->track;
         }
         //var_dump($T);
         $app->render('home/index.php',['tracks'=>$T]);

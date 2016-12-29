@@ -15,7 +15,8 @@
   $view->setTemplatesDirectory('app/views');
   $view->parserExtensions = [
     new \Slim\Views\TwigExtension(),
-    new \Twig_Extension_Debug()
+    new \Twig_Extension_Debug(),
+    new \Twig_Extensions_Extension_Text()
   ];
   $view->appendData([
     "baseUrl"  => $app->baseUrl,

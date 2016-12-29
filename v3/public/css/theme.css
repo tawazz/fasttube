@@ -19,3 +19,9 @@ footer a:hover {
 	background:#fff;
 	color:#333;
 }
+.list-inline li{
+    display: inline;
+}
+footer{
+    color: #333;
+}

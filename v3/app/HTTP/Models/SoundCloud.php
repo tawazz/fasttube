@@ -16,7 +16,9 @@ namespace HTTP\Models;
            $open =fopen($request, "rb");
            $result =stream_get_contents($open);
            fclose($open);
-
+           foreach ($result as $track) {
+               $track->artwork_url = str_replace("large","crop",$track->artwork_url);
+           }
            return json_decode($result);
         }
 

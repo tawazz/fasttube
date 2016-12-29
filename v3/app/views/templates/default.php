@@ -12,7 +12,7 @@
     </head>
     <body>
         {% include "parts/nav.php" %}
-		<div id="app">
+		<div class="container is-fluid">
         {% block content %}{% endblock %}
 		</div>
         {% include "parts/footer.php" %}
