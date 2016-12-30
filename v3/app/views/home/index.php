@@ -30,21 +30,21 @@ tracks
               <br>
               <small>{{ track.created_at }}</small>
             </div>
-            <div class="content">
-                <a class="button is-light" :href="track.permalink_url">
-                    <span>Preview</span>
-                    <span class="icon">
-                    <i class="fa fa-play"></i>
-                    </span>
-                </a>
-                <a class="button is-primary is-inverted" :href="'/fasttube/download?title='+track.title+'&url='+track.uri|urlencode" target="_blank">
-                    <span>Download</span>
-                    <span class="icon">
-                    <i class="fa fa-download"></i>
-                    </span>
-                </a>
-            </div>
           </div>
+          <footer class="card-footer">
+             <a class="card-footer-item is-info" :href="track.permalink_url">
+                 <span>Preview</span>
+                 <span class="icon">
+                 <i class="fa fa-play"></i>
+                 </span>
+             </a>
+             <a class="card-footer-item" :href="'/fasttube/download?title='+track.title+'&url='+track.uri|urlencode" target="_blank">
+                 <span>Download</span>
+                 <span class="icon">
+                 <i class="fa fa-download"></i>
+                 </span>
+             </a>
+         </footer>
         </div>
     </div>
 </div>

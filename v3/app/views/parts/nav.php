@@ -15,9 +15,9 @@
 
             <div class="nav-right nav-menu">
                 <a href="{{urlFor('home')}}" class="nav-item">Explore</a>
-                <form class="nav-item" action="#" method="get">
+                <form class="nav-item" action="#" method="get"  @submit.prevent="searchTracks()">
                   <p class="control has-addons">
-                      <input class="input" type="text" placeholder="Find a song" v-model="search" @submit.prevent="searchTracks()">
+                      <input class="input" type="text" placeholder="Find a song" v-model="search">
                       <a class="button is-primary" @click.prevent="searchTracks()">
                         Search
                       </a>
