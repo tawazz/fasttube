@@ -1,0 +1,22 @@
+a{
+    color:#ff3860;
+}
+.navbar{
+  margin-bottom: 0;
+}
+#nprogress .bar {
+  background: #fff;
+}
+#app{
+	background:#fff;
+	color:#333;
+}
+.list-inline li{
+    display: inline;
+}
+footer{
+    color: #333;
+}
+.hero{
+  margin-bottom: 40px;
+}

@@ -1,0 +1,4 @@
+vendor/
+app/config/config.php
+app/config/db.php
+public/node_modules/
