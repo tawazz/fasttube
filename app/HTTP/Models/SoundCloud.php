@@ -5,9 +5,9 @@ namespace HTTP\Models;
 
         public function __construct(){
             $this->service = "https://api.soundcloud.com/tracks.json?";
-            $this->api_key="0120297111908d39612578eb181ed3c7";
-			$this->master_key = "fDoItMDbsbZz8dY16ZzARCZmzgHBPotA";
-            $this->app_version = "1480516909";
+            $this->api_key="2t9loNQH90kzJcsFCODdigxfp325aq4z";
+	    $this->master_key = "2t9loNQH90kzJcsFCODdigxfp325aq4z";
+            $this->app_version = "1489155300";
         }
 
         public function request($query){
