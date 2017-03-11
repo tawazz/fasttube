@@ -29,7 +29,10 @@ tracks
                         {{track.description}}
                     </p>
                     <div class="chat-footer">
-                      <a href="/fasttube/download?title={{track.title|url_encode}}&url={{ track.uri}}" target="_blank" class="btn btn-primary">Download</a>
+                      <a 
+href="/sounddown/download?title={{track.title|url_encode}}&url={{ 
+track.uri}}" 
+target="_blank" class="btn btn-primary">Download</a>
                       <a href="{{ track.permalink_url}}" target="_blank" class="btn btn-primary">Play on Soundcloud</a>
                     </div>
                 </div>

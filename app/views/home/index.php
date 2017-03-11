@@ -38,7 +38,9 @@ tracks
                  <i class="fa fa-play"></i>
                  </span>
              </a>
-             <a class="card-footer-item" :href="'/fasttube/download?title='+track.title+'&url='+track.uri|urlencode" target="_blank">
+             <a class="card-footer-item" 
+:href="'/sounddown/download?title='+track.title+'&url='+track.uri|urlencode" 
+target="_blank">
                  <span>Download</span>
                  <span class="icon">
                  <i class="fa fa-download"></i>
